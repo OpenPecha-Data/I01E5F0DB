@@ -1,0 +1,47 @@
+id: 174a86649c3845e1a92f67c4a941f2f6
+annotation_type: index
+revision: '00001'
+annotations:
+  b9adc1e43aaf4e62923655792bdc6ed0:
+    base: 48F9.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 19
+    - title: Homage
+      span:
+        start: 20
+        end: 131
+    - title: Short §1
+      span:
+        start: 132
+        end: 280
+    - title: Short §2
+      span:
+        start: 281
+        end: 372
+    - title: Short §3
+      span:
+        start: 373
+        end: 386
+    - title: Short §4
+      span:
+        start: 387
+        end: 493
+    - title: Short §5
+      span:
+        start: 494
+        end: 541
+    - title: Short §6
+      span:
+        start: 542
+        end: 654
+    - title: Short §7
+      span:
+        start: 655
+        end: 1028
+    - title: Colophon
+      span:
+        start: 1029
+        end: 1045
